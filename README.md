@@ -8,7 +8,7 @@
 - [💭 Setup](#thought_balloon-setup)
 - [🎉 3rd Party Libraries](#tada-3rd-party-libraries)
 - [🧑‍🍳 About](#cook-author)
-- [📺 Me Building This Project](#me-building-this-project)
+- [📺 Me Building This Project](#movie_camera-me-building-this-project)
 - [📄 License](#page_with_curl-license)
 
 ![PHP Minimalist Sales Micro Ecommerce Site](php-minimalist-sales-micro-site.png)
